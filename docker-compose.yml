@@ -1,7 +1,7 @@
 version: "3.8"
 services:
   web:
-    build: ./frontend
+    build: ./react-express-ts-tree-fe
     depends_on:
       - api
     ports:
@@ -10,7 +10,7 @@ services:
       - network-backend
 
   api:
-    build: ./backend
+    build: ./react-express-ts-tree-be
     ports:
       - "3001:3001"
     networks: 
