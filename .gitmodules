@@ -1,0 +1,6 @@
+[submodule "react-express-ts-tree-be"]
+	path = react-express-ts-tree-be
+	url = https://github.com/pick8chu/react-express-ts-tree-be
+[submodule "react-express-ts-tree-fe"]
+	path = react-express-ts-tree-fe
+	url = https://github.com/pick8chu/react-express-ts-tree-fe
