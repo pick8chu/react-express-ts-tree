@@ -1,4 +1,10 @@
+### after clone this repo, run the following commands to start the project:
+```
+git submodule init
+git submodule update
+
 docker compose up
+```
 
 ## Backend:
 #### endpoint
